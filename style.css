@@ -1,0 +1,14 @@
+body {
+	background-color: lightskyblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+    text-align: center;
+    background-color:lightsteelblue;
+    padding: 130px;
+    border-radius: 25px;
+}
